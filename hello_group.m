@@ -1,1 +1,1 @@
-display("Heey!! Let's go!");
+disp("Heey!! Let's go!");
